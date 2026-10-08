@@ -6,6 +6,7 @@ public class CubeActions : MonoBehaviour
 {
     [Header("Action sounds")]
     [SerializeField] private AudioClip villagerSound;
+    //Si vamos
     [SerializeField] private AudioClip explosionSound;
     [SerializeField] private AudioClip eatingSound;
 
